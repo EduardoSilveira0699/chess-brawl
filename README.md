@@ -20,7 +20,7 @@ Criado como desafio técnico e projeto de estudo, o objetivo é integrar lógica
 
 1. Clone ou baixe o repositório:
    bash
-   git clone https://github.com/seu-usuario/chess-brawl.git
+   git clone https://github.com/EduardoSilveira0699/chess-brawl
    cd chess-brawl
 
 2. Execute o script:
